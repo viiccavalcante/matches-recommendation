@@ -10,7 +10,7 @@
 (CMD)</br>
 python -m venv .venv</br>
 .venv\Scripts\activate</br></br>
-(ou Git Bash / PowerShell)</br>
+(or Git Bash / PowerShell)</br>
 source .venv/Scripts/activate
 
 <b>Install dependencies:</b></br>
