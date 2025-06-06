@@ -4,7 +4,7 @@
 [Dating App Behavior Dataset 2025](https://www.kaggle.com/datasets/keyushnisar/dating-app-behavior-dataset?select=dating_app_behavior_dataset_extended1.csv) (extended version)
 
 <b>Clone the repo:</b></br>
-[matches-recommendation](https://github.com/viiccavalcante/matches-recommendation.git)
+[https://github.com/viiccavalcante/matches-recommendation.git](https://github.com/viiccavalcante/matches-recommendation.git)
 
 <b>Creating virtual environment:</b></br>
 (CMD)</br>
